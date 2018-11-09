@@ -1,0 +1,52 @@
+#roomOne {
+  width: 350px;
+  height: 200px;
+  float: left;
+  background-color: #ffa70f;
+  margin: 5px;
+  border-radius: 10px;
+  overflow: scroll;
+}
+
+body {
+  background-image: url(https://photos.smugmug.com/Artsy/i-b8jCV6C/0/dbd4be56/L/Sunset%206-2-11B%20reflect-L.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: arial;
+  color: white;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: arial;
+  color: white;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: arial;
+  color: white;
+}
+
+h4 {
+  font-size: 20px;
+  font-family: arial;
+  color: black;
+}
+
+h5 {
+  font-size: 20px;
+  font-family: arial;
+  color: white;
+  font-weight: bold;
+}
+
+ol {
+  font-size: 20px;
+  font-family: arial;
+  color: white;
+}
